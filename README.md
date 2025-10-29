@@ -1,5 +1,6 @@
 ### 👩🏻‍💻 Kauã Franklin.
  **`Desenvolvedora Back`**
+ 
 Me chamo Kauã Franklin, sou apaixonado por tecnologia e atualmente estudo Desenvolvimento de Sistemas. Busco me especializar na área de Back-End, sempre com foco em aprimorar minhas habilidades e criar soluções inteligentes.Gosto de explorar novas ferramentas, desenvolver projetos pessoais e aprender continuamente. No meu tempo livre, costumo jogar e me aprofundar ainda mais no universo da informática.
 Meu principal objetivo é crescer profissionalmente, adquirindo experiência e contribuindo com projetos que façam a diferença.
 
