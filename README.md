@@ -67,6 +67,3 @@ Meu principal objetivo é crescer profissionalmente, adquirindo experiência e c
 />
 
 ---
-
-> Algumas informações sobre usario logo ao lado.
-
