@@ -1,12 +1,10 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=100&color=F7F7F7&width=435&lines=*+Desenvolvedor+Web%E2%9A%A1*)](https://git.io/typing-svg)
-
 Me chamo **Kauã Franklin**, sou apaixonado por tecnologia e atualmente estudo Desenvolvimento de Sistemas. Busco me especializar na área de **Web Developer**, sempre com foco em aprimorar minhas habilidades e criar soluções inteligentes. Gosto de explorar novas ferramentas, desenvolver projetos pessoais e aprender continuamente.
 Meu principal objetivo é crescer profissionalmente, adquirindo experiência e contribuindo com projetos que façam a diferença.
 
 ---
 
-### 🤖 Linguagens & Ferramentas
+###  Linguagens & Ferramentas
 
 <img
   align="left"
