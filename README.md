@@ -31,6 +31,24 @@ Meu principal objetivo é crescer profissionalmente, adquirindo experiência e c
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
 />
 
+<img
+  align="left"
+  alt="FIGMA"
+  title="FIGMA"
+  width="30px"
+  style="padding-right:10px"
+  src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png"
+/>
+
+<img
+  align="left"
+  alt="Csharp"
+  title="Csharp"
+  width="35px"
+  style="padding-right:10px"
+  src="https://images.icon-icons.com/2415/PNG/512/csharp_original_logo_icon_146578.png"
+/>
+
 <br/>
 <br/>
 
