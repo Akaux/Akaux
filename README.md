@@ -68,18 +68,12 @@ Meu principal objetivo é crescer profissionalmente, adquirindo experiência e c
 
 ### 📊 Estatísticas
 
-<img
-  align="left"
-  alt="GitHub Stats"
-  height="180"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akaux&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-/>
 
+<div align="center">
 <img
-  align="left"
   alt="GitHub Streak"
   height="180"
   src="https://github-readme-streak-stats.herokuapp.com/?user=Akaux&theme=tokyonight"
 />
+</div>
 
----
