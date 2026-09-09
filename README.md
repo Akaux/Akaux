@@ -1,79 +1,70 @@
+<h1 data-importer="text" align="center">hey there 👋</h1>
 
-Me chamo **Kauã Franklin**, sou apaixonado por tecnologia e atualmente estudo Desenvolvimento de Sistemas. Busco me especializar na área de **Web Developer**, sempre com foco em aprimorar minhas habilidades e criar soluções inteligentes. Gosto de explorar novas ferramentas, desenvolver projetos pessoais e aprender continuamente.
-Meu principal objetivo é crescer profissionalmente, adquirindo experiência e contribuindo com projetos que façam a diferença.
+###
 
----
-
-###  Linguagens & Ferramentas
-
-<img
-  align="left"
-  alt="JavaScript"
-  title="JavaScript"
-  width="30px"
-  style="padding-right:10px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-/>
-<img
-  align="left"
-  alt="HTML"
-  title="HTML"
-  width="30px"
-  style="padding-right:10px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
-/>
-<img
-  align="left"
-  alt="CSS"
-  title="CSS"
-  width="30px"
-  style="padding-right:10px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
-/>
-
-<img
-  align="left"
-  alt="FIGMA"
-  title="FIGMA"
-  width="30px"
-  style="padding-right:10px"
-  src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png"
-/>
-
-<img
-  align="left"
-  alt="Csharp"
-  title="Csharp"
-  width="35px"
-  style="padding-right:10px"
-  src="https://images.icon-icons.com/2415/PNG/512/csharp_original_logo_icon_146578.png"
-/>
-
-<br/>
-<br/>
-
-<div>
+<div data-importer="socials" align="center">
+  <a href="https://www.linkedin.com/in/kau%C3%A3-franklin/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
   <a href="https://discord.com/users/akaux" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a>
-  <a href="mailto:franklinppr178@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/kauã-franklin-b33012346" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
   </a>
 </div>
 
----
+###
 
-### 📊 Estatísticas
+<h3 data-importer="text" align="left">👩‍💻 About Me</h3>
 
+###
 
-<div align="center">
-<img
-  alt="GitHub Streak"
-  height="180"
-  src="https://github-readme-streak-stats.herokuapp.com/?user=Akaux&theme=tokyonight"
-/>
+<p data-importer="text" align="left">I'm Developer Back-End</p>
+
+###
+
+<h3 data-importer="text" align="left">🛠 Language and tools</h3>
+
+###
+
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo" />
 </div>
 
+###
+
+<h3 data-importer="text" align="left">My Stats :</h3>
+
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=Akaux&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+</div>
+
+###
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/Akaux/Akaux/snake-output/snake.svg" alt="Snake animation" />
+
+###
