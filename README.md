@@ -65,6 +65,8 @@
 
 ###
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/Akaux/Akaux/snake-output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Akaux/Akaux/output/github-contribution-grid-snake2.svg" alt="Snake animation" />
+</div>
 
 ###
